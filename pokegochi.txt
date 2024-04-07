@@ -1,0 +1,51 @@
+
+
+	000	Cylindrio	Hatchling	Rare		Slime		70
+	001	Sphero		Hatchling	Common		Slime		0
+	002	Cubio		Hatchling	Uncommon	Slime		4
+	003	Caterpanic	Baby		Common		Bug		59
+	004	Butterpump	Adult		Uncommon	Psychic		2126
+	005	Axolittle	Baby		Common		Water		369
+	006	Axolarge	Adult		Rare		Magic		1245
+	007	Jeeto		Baby		Common		Water		117
+	008	Decentralshark	Adult		Uncommon	FUD		125
+	009	Lurkermon	Baby		Rare		FUD		219
+	010	Shodowgochi	Adult		Very Rare	FUD		1146
+	011	Faux		Adult		Common		FUD		1165
+	012	Hodlmon		Baby		Common		Magic		1135
+	013	Shortlax	Adult		Rare		FUD		1342
+	014	Liquie		Baby		Common		Flying		26
+	015	Liquidotto	Adult		Uncommon	Flying		609
+	016	Dexscrenno	Adult		Rare		Flying		1296
+	017	Sniper Wolf	Adult		Uncommon	Bot		2105
+	018	Stonermon	Baby		Common		Based		58
+	019	Budgochi	Adult		Uncommon	Based		1268
+	020	Buyhi		Baby		Common		Magic		48
+	021	Sellow		Adult		Uncommon	FUD		1264
+	022	ZKmon		Baby		Common		Bot		1263
+	023	Mevot		Adult		Uncommon	Bot		36
+	024	Uninklo		Adult		Rare		Based		1191
+	025	Sparkosvsky	Baby		Uncommon	Electric	13
+	026	Sparkarov	Adult		Rare		Electric	1073
+	027	Pentagochi	Baby		Uncommon	Bug		698
+	028	Octagochi	Adult		Rare		Bug		2123
+	029	Mintest		Baby		Uncommon	Magic		379
+	030	Phantomon	Adult		Rare		FUD		1816
+	031	Degenmon	Baby		Uncommon	Magic		1797
+	032	Bullishmon	Adult		Rare		Psychic		982
+	033	Gekkoin		Baby		Rare		Based		79
+	034	Bytemon		Baby		Rare		Bot		32
+	035	Buybot		Adult		Very Rare	Bot		1125
+	036	Tadpel		Baby		Common		Water		44	
+	037	Frogana		Adult		Rare		Water		2073
+	038	Munke		Baby		Uncommon	Fire		96
+	039	Lit Munke	Adult		Rare		Fire		1450
+	040	Poolpool	Adult		Very Rare	Magic		1621
+	041	Memegochi	Baby		Common		Magic		123
+	042	Memecoinmon	Adult		Uncommon	Magic		775
+	043	Seedphrasemon	Baby		Common		Based		327
+	044	Privatekeyzard	Adult		Uncommon	Based		981
+	045	Polygone Matec	Adult		Rare		FUD		856
+	046	Psycho Mantis	Adult		Very Rare	Psychic		1695
+	047	Blockonite	Adult		Very Rare	Dragon		1931
+			

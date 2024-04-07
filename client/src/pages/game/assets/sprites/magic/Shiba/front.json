@@ -1,0 +1,2534 @@
+{
+    "frames": [
+        {
+            "filename": "EffectsShiba0016",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0017",
+            "frame": {
+                "x": 201,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0018",
+            "frame": {
+                "x": 0,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0019",
+            "frame": {
+                "x": 201,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0020",
+            "frame": {
+                "x": 402,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0021",
+            "frame": {
+                "x": 402,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0022",
+            "frame": {
+                "x": 0,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0023",
+            "frame": {
+                "x": 201,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0024",
+            "frame": {
+                "x": 402,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0025",
+            "frame": {
+                "x": 603,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0026",
+            "frame": {
+                "x": 603,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0027",
+            "frame": {
+                "x": 603,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0028",
+            "frame": {
+                "x": 0,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0029",
+            "frame": {
+                "x": 201,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0030",
+            "frame": {
+                "x": 402,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0031",
+            "frame": {
+                "x": 603,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0032",
+            "frame": {
+                "x": 804,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0033",
+            "frame": {
+                "x": 804,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0034",
+            "frame": {
+                "x": 804,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0035",
+            "frame": {
+                "x": 804,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0036",
+            "frame": {
+                "x": 0,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0037",
+            "frame": {
+                "x": 201,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0038",
+            "frame": {
+                "x": 402,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0039",
+            "frame": {
+                "x": 603,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0040",
+            "frame": {
+                "x": 804,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0041",
+            "frame": {
+                "x": 1005,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0042",
+            "frame": {
+                "x": 1005,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0043",
+            "frame": {
+                "x": 1005,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0044",
+            "frame": {
+                "x": 1005,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0045",
+            "frame": {
+                "x": 1005,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0046",
+            "frame": {
+                "x": 0,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0047",
+            "frame": {
+                "x": 201,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0048",
+            "frame": {
+                "x": 402,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0049",
+            "frame": {
+                "x": 603,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0050",
+            "frame": {
+                "x": 804,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0051",
+            "frame": {
+                "x": 1005,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0052",
+            "frame": {
+                "x": 1206,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0053",
+            "frame": {
+                "x": 1206,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0054",
+            "frame": {
+                "x": 1206,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0055",
+            "frame": {
+                "x": 1206,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0056",
+            "frame": {
+                "x": 1206,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0057",
+            "frame": {
+                "x": 1206,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0058",
+            "frame": {
+                "x": 0,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0059",
+            "frame": {
+                "x": 201,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0060",
+            "frame": {
+                "x": 402,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0061",
+            "frame": {
+                "x": 603,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0062",
+            "frame": {
+                "x": 804,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0063",
+            "frame": {
+                "x": 1005,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0064",
+            "frame": {
+                "x": 1206,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0065",
+            "frame": {
+                "x": 1407,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0066",
+            "frame": {
+                "x": 1407,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0067",
+            "frame": {
+                "x": 1407,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0068",
+            "frame": {
+                "x": 1407,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0069",
+            "frame": {
+                "x": 1407,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0070",
+            "frame": {
+                "x": 1407,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0071",
+            "frame": {
+                "x": 1407,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0072",
+            "frame": {
+                "x": 0,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0073",
+            "frame": {
+                "x": 201,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0074",
+            "frame": {
+                "x": 402,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0075",
+            "frame": {
+                "x": 603,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0076",
+            "frame": {
+                "x": 804,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0077",
+            "frame": {
+                "x": 1005,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0078",
+            "frame": {
+                "x": 1206,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0079",
+            "frame": {
+                "x": 1407,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0080",
+            "frame": {
+                "x": 1608,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0081",
+            "frame": {
+                "x": 1608,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0082",
+            "frame": {
+                "x": 1608,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0083",
+            "frame": {
+                "x": 1608,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0084",
+            "frame": {
+                "x": 1608,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0085",
+            "frame": {
+                "x": 1608,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0086",
+            "frame": {
+                "x": 1608,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0087",
+            "frame": {
+                "x": 1608,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0088",
+            "frame": {
+                "x": 0,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0089",
+            "frame": {
+                "x": 201,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0090",
+            "frame": {
+                "x": 402,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0091",
+            "frame": {
+                "x": 603,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0092",
+            "frame": {
+                "x": 804,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0093",
+            "frame": {
+                "x": 1005,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0094",
+            "frame": {
+                "x": 1206,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0095",
+            "frame": {
+                "x": 1407,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0096",
+            "frame": {
+                "x": 1608,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0097",
+            "frame": {
+                "x": 1809,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0098",
+            "frame": {
+                "x": 1809,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0099",
+            "frame": {
+                "x": 1809,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0100",
+            "frame": {
+                "x": 1809,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0101",
+            "frame": {
+                "x": 1809,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0102",
+            "frame": {
+                "x": 1809,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0103",
+            "frame": {
+                "x": 1809,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0104",
+            "frame": {
+                "x": 1809,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0105",
+            "frame": {
+                "x": 1809,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0106",
+            "frame": {
+                "x": 0,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0107",
+            "frame": {
+                "x": 201,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0108",
+            "frame": {
+                "x": 402,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0109",
+            "frame": {
+                "x": 603,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0110",
+            "frame": {
+                "x": 804,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0111",
+            "frame": {
+                "x": 1005,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0112",
+            "frame": {
+                "x": 1206,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0113",
+            "frame": {
+                "x": 1407,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0114",
+            "frame": {
+                "x": 1608,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0115",
+            "frame": {
+                "x": 1809,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0116",
+            "frame": {
+                "x": 2010,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0117",
+            "frame": {
+                "x": 2010,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0118",
+            "frame": {
+                "x": 2010,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0119",
+            "frame": {
+                "x": 2010,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0120",
+            "frame": {
+                "x": 2010,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0001",
+            "frame": {
+                "x": 2010,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0002",
+            "frame": {
+                "x": 2010,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0003",
+            "frame": {
+                "x": 2010,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0004",
+            "frame": {
+                "x": 2010,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0005",
+            "frame": {
+                "x": 2010,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0006",
+            "frame": {
+                "x": 0,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0007",
+            "frame": {
+                "x": 201,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0008",
+            "frame": {
+                "x": 402,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0009",
+            "frame": {
+                "x": 603,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0010",
+            "frame": {
+                "x": 804,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0011",
+            "frame": {
+                "x": 1005,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0012",
+            "frame": {
+                "x": 1206,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0013",
+            "frame": {
+                "x": 1407,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0014",
+            "frame": {
+                "x": 1608,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsShiba0015",
+            "frame": {
+                "x": 1809,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "front.png",
+        "size": {
+            "w": 2210,
+            "h": 2320
+        },
+        "scale": 1
+    }
+}

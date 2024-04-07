@@ -1,0 +1,2534 @@
+{
+    "frames": [
+        {
+            "filename": "EffectsFire0012",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0013",
+            "frame": {
+                "x": 201,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0014",
+            "frame": {
+                "x": 0,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0015",
+            "frame": {
+                "x": 201,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0016",
+            "frame": {
+                "x": 402,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0017",
+            "frame": {
+                "x": 402,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0018",
+            "frame": {
+                "x": 0,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0019",
+            "frame": {
+                "x": 201,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0020",
+            "frame": {
+                "x": 402,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0021",
+            "frame": {
+                "x": 603,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0022",
+            "frame": {
+                "x": 603,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0023",
+            "frame": {
+                "x": 603,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0024",
+            "frame": {
+                "x": 0,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0025",
+            "frame": {
+                "x": 201,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0026",
+            "frame": {
+                "x": 402,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0027",
+            "frame": {
+                "x": 603,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0028",
+            "frame": {
+                "x": 804,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0029",
+            "frame": {
+                "x": 804,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0030",
+            "frame": {
+                "x": 804,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0031",
+            "frame": {
+                "x": 804,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0032",
+            "frame": {
+                "x": 0,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0033",
+            "frame": {
+                "x": 201,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0034",
+            "frame": {
+                "x": 402,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0035",
+            "frame": {
+                "x": 603,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0036",
+            "frame": {
+                "x": 804,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0037",
+            "frame": {
+                "x": 1005,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0038",
+            "frame": {
+                "x": 1005,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0039",
+            "frame": {
+                "x": 1005,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0040",
+            "frame": {
+                "x": 1005,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0041",
+            "frame": {
+                "x": 1005,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0042",
+            "frame": {
+                "x": 0,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0043",
+            "frame": {
+                "x": 201,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0044",
+            "frame": {
+                "x": 402,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0045",
+            "frame": {
+                "x": 603,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0046",
+            "frame": {
+                "x": 804,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0047",
+            "frame": {
+                "x": 1005,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0048",
+            "frame": {
+                "x": 1206,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0049",
+            "frame": {
+                "x": 1206,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0050",
+            "frame": {
+                "x": 1206,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0051",
+            "frame": {
+                "x": 1206,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0052",
+            "frame": {
+                "x": 1206,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0053",
+            "frame": {
+                "x": 1206,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0054",
+            "frame": {
+                "x": 0,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0055",
+            "frame": {
+                "x": 201,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0056",
+            "frame": {
+                "x": 402,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0057",
+            "frame": {
+                "x": 603,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0058",
+            "frame": {
+                "x": 804,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0059",
+            "frame": {
+                "x": 1005,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0060",
+            "frame": {
+                "x": 1206,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0061",
+            "frame": {
+                "x": 1407,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0062",
+            "frame": {
+                "x": 1407,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0063",
+            "frame": {
+                "x": 1407,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0064",
+            "frame": {
+                "x": 1407,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0065",
+            "frame": {
+                "x": 1407,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0066",
+            "frame": {
+                "x": 1407,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0067",
+            "frame": {
+                "x": 1407,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0068",
+            "frame": {
+                "x": 0,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0069",
+            "frame": {
+                "x": 201,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0070",
+            "frame": {
+                "x": 402,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0071",
+            "frame": {
+                "x": 603,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0072",
+            "frame": {
+                "x": 804,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0073",
+            "frame": {
+                "x": 1005,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0074",
+            "frame": {
+                "x": 1206,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0075",
+            "frame": {
+                "x": 1407,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0076",
+            "frame": {
+                "x": 1608,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0077",
+            "frame": {
+                "x": 1608,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0078",
+            "frame": {
+                "x": 1608,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0079",
+            "frame": {
+                "x": 1608,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0080",
+            "frame": {
+                "x": 1608,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0081",
+            "frame": {
+                "x": 1608,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0082",
+            "frame": {
+                "x": 1608,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0083",
+            "frame": {
+                "x": 1608,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0084",
+            "frame": {
+                "x": 0,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0085",
+            "frame": {
+                "x": 201,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0086",
+            "frame": {
+                "x": 402,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0087",
+            "frame": {
+                "x": 603,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0088",
+            "frame": {
+                "x": 804,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0089",
+            "frame": {
+                "x": 1005,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0090",
+            "frame": {
+                "x": 1206,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0091",
+            "frame": {
+                "x": 1407,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0092",
+            "frame": {
+                "x": 1608,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0093",
+            "frame": {
+                "x": 1809,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0094",
+            "frame": {
+                "x": 1809,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0095",
+            "frame": {
+                "x": 1809,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0096",
+            "frame": {
+                "x": 1809,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0097",
+            "frame": {
+                "x": 1809,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0098",
+            "frame": {
+                "x": 1809,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0099",
+            "frame": {
+                "x": 1809,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0100",
+            "frame": {
+                "x": 1809,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0101",
+            "frame": {
+                "x": 1809,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0102",
+            "frame": {
+                "x": 0,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0103",
+            "frame": {
+                "x": 201,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0104",
+            "frame": {
+                "x": 402,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0105",
+            "frame": {
+                "x": 603,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0106",
+            "frame": {
+                "x": 804,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0107",
+            "frame": {
+                "x": 1005,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0108",
+            "frame": {
+                "x": 1206,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0109",
+            "frame": {
+                "x": 1407,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0110",
+            "frame": {
+                "x": 1608,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0111",
+            "frame": {
+                "x": 1809,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0112",
+            "frame": {
+                "x": 2010,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0113",
+            "frame": {
+                "x": 2010,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0114",
+            "frame": {
+                "x": 2010,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0115",
+            "frame": {
+                "x": 2010,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0116",
+            "frame": {
+                "x": 2010,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0117",
+            "frame": {
+                "x": 2010,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0118",
+            "frame": {
+                "x": 2010,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0119",
+            "frame": {
+                "x": 2010,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0120",
+            "frame": {
+                "x": 2010,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0001",
+            "frame": {
+                "x": 2010,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0002",
+            "frame": {
+                "x": 0,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0003",
+            "frame": {
+                "x": 201,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0004",
+            "frame": {
+                "x": 402,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0005",
+            "frame": {
+                "x": 603,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0006",
+            "frame": {
+                "x": 804,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0007",
+            "frame": {
+                "x": 1005,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0008",
+            "frame": {
+                "x": 1206,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0009",
+            "frame": {
+                "x": 1407,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0010",
+            "frame": {
+                "x": 1608,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsFire0011",
+            "frame": {
+                "x": 1809,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "front.png",
+        "size": {
+            "w": 2210,
+            "h": 2320
+        },
+        "scale": 1
+    }
+}

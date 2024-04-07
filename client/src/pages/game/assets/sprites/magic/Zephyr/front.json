@@ -1,0 +1,2534 @@
+{
+    "frames": [
+        {
+            "filename": "EffectsZephyr0001",
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0002",
+            "frame": {
+                "x": 201,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0003",
+            "frame": {
+                "x": 0,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0004",
+            "frame": {
+                "x": 201,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0005",
+            "frame": {
+                "x": 402,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0006",
+            "frame": {
+                "x": 402,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0007",
+            "frame": {
+                "x": 0,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0008",
+            "frame": {
+                "x": 201,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0009",
+            "frame": {
+                "x": 402,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0010",
+            "frame": {
+                "x": 603,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0011",
+            "frame": {
+                "x": 603,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0012",
+            "frame": {
+                "x": 603,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0013",
+            "frame": {
+                "x": 0,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0014",
+            "frame": {
+                "x": 201,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0015",
+            "frame": {
+                "x": 402,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0016",
+            "frame": {
+                "x": 603,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0017",
+            "frame": {
+                "x": 804,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0018",
+            "frame": {
+                "x": 804,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0019",
+            "frame": {
+                "x": 804,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0020",
+            "frame": {
+                "x": 804,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0021",
+            "frame": {
+                "x": 0,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0022",
+            "frame": {
+                "x": 201,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0023",
+            "frame": {
+                "x": 402,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0024",
+            "frame": {
+                "x": 603,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0025",
+            "frame": {
+                "x": 804,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0026",
+            "frame": {
+                "x": 1005,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0027",
+            "frame": {
+                "x": 1005,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0028",
+            "frame": {
+                "x": 1005,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0029",
+            "frame": {
+                "x": 1005,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0030",
+            "frame": {
+                "x": 1005,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0031",
+            "frame": {
+                "x": 0,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0032",
+            "frame": {
+                "x": 201,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0033",
+            "frame": {
+                "x": 402,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0034",
+            "frame": {
+                "x": 603,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0035",
+            "frame": {
+                "x": 804,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0036",
+            "frame": {
+                "x": 1005,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0037",
+            "frame": {
+                "x": 1206,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0038",
+            "frame": {
+                "x": 1206,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0039",
+            "frame": {
+                "x": 1206,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0040",
+            "frame": {
+                "x": 1206,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0041",
+            "frame": {
+                "x": 1206,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0042",
+            "frame": {
+                "x": 1206,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0043",
+            "frame": {
+                "x": 0,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0044",
+            "frame": {
+                "x": 201,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0045",
+            "frame": {
+                "x": 402,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0046",
+            "frame": {
+                "x": 603,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0047",
+            "frame": {
+                "x": 804,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0048",
+            "frame": {
+                "x": 1005,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0049",
+            "frame": {
+                "x": 1206,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0050",
+            "frame": {
+                "x": 1407,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0051",
+            "frame": {
+                "x": 1407,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0052",
+            "frame": {
+                "x": 1407,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0053",
+            "frame": {
+                "x": 1407,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0054",
+            "frame": {
+                "x": 1407,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0055",
+            "frame": {
+                "x": 1407,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0056",
+            "frame": {
+                "x": 1407,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0057",
+            "frame": {
+                "x": 0,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0058",
+            "frame": {
+                "x": 201,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0059",
+            "frame": {
+                "x": 402,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0060",
+            "frame": {
+                "x": 603,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0061",
+            "frame": {
+                "x": 804,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0062",
+            "frame": {
+                "x": 1005,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0063",
+            "frame": {
+                "x": 1206,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0064",
+            "frame": {
+                "x": 1407,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0065",
+            "frame": {
+                "x": 1608,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0066",
+            "frame": {
+                "x": 1608,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0067",
+            "frame": {
+                "x": 1608,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0068",
+            "frame": {
+                "x": 1608,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0069",
+            "frame": {
+                "x": 1608,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0070",
+            "frame": {
+                "x": 1608,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0071",
+            "frame": {
+                "x": 1608,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0072",
+            "frame": {
+                "x": 1608,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0073",
+            "frame": {
+                "x": 0,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0074",
+            "frame": {
+                "x": 201,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0075",
+            "frame": {
+                "x": 402,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0076",
+            "frame": {
+                "x": 603,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0077",
+            "frame": {
+                "x": 804,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0078",
+            "frame": {
+                "x": 1005,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0079",
+            "frame": {
+                "x": 1206,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0080",
+            "frame": {
+                "x": 1407,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0081",
+            "frame": {
+                "x": 1608,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0082",
+            "frame": {
+                "x": 1809,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0083",
+            "frame": {
+                "x": 1809,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0084",
+            "frame": {
+                "x": 1809,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0085",
+            "frame": {
+                "x": 1809,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0086",
+            "frame": {
+                "x": 1809,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0087",
+            "frame": {
+                "x": 1809,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0088",
+            "frame": {
+                "x": 1809,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0089",
+            "frame": {
+                "x": 1809,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0090",
+            "frame": {
+                "x": 1809,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0091",
+            "frame": {
+                "x": 0,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0092",
+            "frame": {
+                "x": 201,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0093",
+            "frame": {
+                "x": 402,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0094",
+            "frame": {
+                "x": 603,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0095",
+            "frame": {
+                "x": 804,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0096",
+            "frame": {
+                "x": 1005,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0097",
+            "frame": {
+                "x": 1206,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0098",
+            "frame": {
+                "x": 1407,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0099",
+            "frame": {
+                "x": 1608,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0100",
+            "frame": {
+                "x": 1809,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0101",
+            "frame": {
+                "x": 2010,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0102",
+            "frame": {
+                "x": 2010,
+                "y": 211,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0103",
+            "frame": {
+                "x": 2010,
+                "y": 422,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0104",
+            "frame": {
+                "x": 2010,
+                "y": 633,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0105",
+            "frame": {
+                "x": 2010,
+                "y": 844,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0106",
+            "frame": {
+                "x": 2010,
+                "y": 1055,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0107",
+            "frame": {
+                "x": 2010,
+                "y": 1266,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0108",
+            "frame": {
+                "x": 2010,
+                "y": 1477,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0109",
+            "frame": {
+                "x": 2010,
+                "y": 1688,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0110",
+            "frame": {
+                "x": 2010,
+                "y": 1899,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0111",
+            "frame": {
+                "x": 0,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0112",
+            "frame": {
+                "x": 201,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0113",
+            "frame": {
+                "x": 402,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0114",
+            "frame": {
+                "x": 603,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0115",
+            "frame": {
+                "x": 804,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0116",
+            "frame": {
+                "x": 1005,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0117",
+            "frame": {
+                "x": 1206,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0118",
+            "frame": {
+                "x": 1407,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0119",
+            "frame": {
+                "x": 1608,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        },
+        {
+            "filename": "EffectsZephyr0120",
+            "frame": {
+                "x": 1809,
+                "y": 2110,
+                "w": 200,
+                "h": 210
+            },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 200,
+                "h": 210
+            },
+            "sourceSize": {
+                "w": 200,
+                "h": 210
+            }
+        }
+    ],
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "front.png",
+        "size": {
+            "w": 2210,
+            "h": 2320
+        },
+        "scale": 1
+    }
+}
